@@ -1,3 +1,5 @@
+> **Ovia Inc fork** — We maintain this fork of [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction), a Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, and everything kept stays verbatim. Context compaction is where agent quality is won or lost — this is directly our field. Upstream credit: the fast-jev-compaction authors. License: MIT (see LICENSE). The upstream project is documented below.
+
 # fast-jev-compaction
 
 Claude Code plugin that replaces the compaction summary with Jev decisions:
